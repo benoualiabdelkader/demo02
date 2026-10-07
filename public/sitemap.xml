@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Remplacer example.com par le domaine réel -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/notre-ecole</loc></url>
+  <url><loc>https://example.com/programmes</loc></url>
+  <url><loc>https://example.com/activites</loc></url>
+  <url><loc>https://example.com/galerie</loc></url>
+  <url><loc>https://example.com/admission</loc></url>
+  <url><loc>https://example.com/contact</loc></url>
+</urlset>

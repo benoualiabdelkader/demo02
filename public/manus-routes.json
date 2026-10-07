@@ -1,0 +1,14 @@
+{
+  "project": "ibnrochtech",
+  "output": "dist",
+  "spaFallback": true,
+  "routes": [
+    { "path": "/", "anchor": "#accueil", "label": "Accueil" },
+    { "path": "/notre-ecole", "anchor": "#notre-ecole", "label": "Notre école" },
+    { "path": "/programmes", "anchor": "#programmes", "label": "Programmes" },
+    { "path": "/activites", "anchor": "#activites", "label": "Activités" },
+    { "path": "/galerie", "anchor": "#galerie", "label": "Galerie" },
+    { "path": "/admission", "anchor": "#admission", "label": "Admission" },
+    { "path": "/contact", "anchor": "#contact", "label": "Contact" }
+  ]
+}
